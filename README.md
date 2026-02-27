@@ -169,22 +169,19 @@ Make sure you run the terminal with appropriate permissions if packet capture re
 You can access the deployed version of the dashboard here:
 
 🔗 **Live Application:**  
-YOUR_DEPLOYMENT_LINK
-
-(Replace with your actual deployment URL)
+https://dashb-mu.vercel.app/
 
 ---
 
 ## 🎥 Dashboard Demonstration Video
 
-Click the image below to watch the complete working demo of the dashboard:
 
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-(Replace `YOUR_VIDEO_ID` with your actual YouTube video ID)
 
+
+
+https://github.com/user-attachments/assets/323524de-7401-4814-86b8-77e98d80f6a0
 ---
-
 ## 📊 Real-World Applications
 
 This project can be used in:
@@ -237,3 +234,4 @@ For collaboration, improvements, or technical discussion, feel free to connect.
 ---
 
 ⭐ If you find this project valuable, please consider giving it a star on GitHub!
+

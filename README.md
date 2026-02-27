@@ -167,20 +167,15 @@ Make sure you run the terminal with appropriate permissions if packet capture re
 ## 🌐 Live Deployment
 
 You can access the deployed version of the dashboard here:
-
-🔗 **Live Application:**  
 https://dashb-mu.vercel.app/
 
----
-
-## 🎥 Dashboard Demonstration Video
+## 🎥 Project Demonstration Video
 
 
 
+https://github.com/user-attachments/assets/d263cfe9-b947-4c55-b2ce-c8993afa8665
 
 
-
-https://github.com/user-attachments/assets/323524de-7401-4814-86b8-77e98d80f6a0
 ---
 ## 📊 Real-World Applications
 
@@ -234,4 +229,5 @@ For collaboration, improvements, or technical discussion, feel free to connect.
 ---
 
 ⭐ If you find this project valuable, please consider giving it a star on GitHub!
+
 
